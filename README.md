@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,50:0d47a1,100:0a0a2e&height=220&section=header&text=Hi,%20I%27m%20Archie%20Arya%20Manggala&fontSize=42&fontColor=64b5f6&fontAlignY=40&desc=Software%20Engineering%20Student%20%7C%20Web%20Dev%20%7C%20IoT%20%26%20AI%20Enthusiast&descAlignY=62&descColor=ffffff&animation=fadeIn)
+![header](https://raw.githubusercontent.com/archiearyaaa/archiearyaaa/main/banner.jpg)
 
 </div>
 
