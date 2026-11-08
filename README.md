@@ -4,74 +4,120 @@
 
 </div>
 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" /> &nbsp; **Hi there! I'm Archie Arya Manggala** — a Software Engineering Technology student from **Bangka Belitung, Indonesia** 🇮🇩
+
+---
+
+### 🙋 About Me
+
+- 🎓 &nbsp; 7th-semester **Software Engineering Technology** student at Politeknik Manufaktur Negeri Bangka Belitung
+- 💻 &nbsp; Passionate about building modern **web applications** and exploring **IoT + AI** systems
+- 🌱 &nbsp; Currently learning **Next.js**, **Laravel**, and **Python**
+- 🤖 &nbsp; Exploring **YOLO object detection**, **Computer Vision**, and **smart embedded systems**
+- 🤝 &nbsp; Open to collaboration and new opportunities
+- 📍 &nbsp; Bangka Belitung, Indonesia
+
+---
+
+### 🌐 Connect With Me
+
+<div align="left">
+
+<a href="https://archiearyaaa.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/archiearyamanggala/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+<a href="https://www.instagram.com/archiearyaaa/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+</a>
+<a href="https://github.com/archiearyaaa" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+</a>
+
+</div>
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" />
+</div>
+
 <br/>
 
-I'm a 7th-semester Software Engineering Technology student at **Politeknik Manufaktur Negeri Bangka Belitung (Polman Babel)**, Indonesia, focused on building responsive, efficient, and user-friendly web applications.
+**Frameworks & Libraries**
 
-I primarily work with **Laravel**, **Next.js**, **JavaScript**, and **MySQL**, turning operational needs into practical digital solutions. My projects include AI-based waste classification systems, IoT-integrated smart devices, and IT warehouse management platforms.
+<div align="left">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel" />
+  <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+</div>
 
-I'm particularly interested in **backend development**, **database design**, **IoT systems**, and **AI/Computer Vision** — building reliable systems that are easy to use and maintain.
+<br/>
 
-I enjoy learning new technologies, solving problems, and creating useful software that brings real value to people and organizations.
+**Databases & Tools**
 
-<div align="center">
+<div align="left">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
+</div>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0d47a1?style=for-the-badge&logo=About.me&logoColor=white)](https://archiearyaaa.github.io)&nbsp;
-[![GitHub](https://img.shields.io/badge/GITHUB-0d47a1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/archiearyaaa)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d47a1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archiearyamanggala/)&nbsp;
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-0d47a1?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/archiearyaaa/)
+<br/>
 
+**AI, Computer Vision & IoT**
+
+<div align="left">
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="opencv" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="arduino" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" alt="raspberry pi" />
 </div>
 
 ---
 
-## Technologies & Tools
+### 🚀 Featured Projects
 
-<div align="center">
+**♻️ Waste Sort — AI & IoT Waste Classification System**
 
-![skills](https://skillicons.dev/icons?i=html,css,js,php,python)
+An intelligent waste classification system combining AI and IoT to identify and sort household waste automatically.
 
-![skills](https://skillicons.dev/icons?i=laravel,nextjs,tailwind,bootstrap)
+- 🧠 YOLO-based real-time object detection
+- 🍓 Raspberry Pi 5 + ESP32 integration
+- 🗑️ Classifies: Organic, Inorganic, B3
+- 🌐 Next.js web dashboard + WhatsApp notification
 
-![skills](https://skillicons.dev/icons?i=mysql,git,github,vscode,figma)
+**🏢 SIGITA — IT Warehouse Management System**
 
-![skills](https://skillicons.dev/icons?i=opencv,arduino,raspberrypi)
+Web-based IT asset and inventory management built during internship at **PT TIMAH Tbk**.
 
-</div>
-
----
-
-## Featured Projects
-
-### Waste Sort — AI and IoT Waste Classification System
-
-An intelligent waste classification system that combines Artificial Intelligence and Internet of Things to identify and sort household waste automatically.
-
-- YOLO-based real-time object detection
-- Raspberry Pi 5 and ESP32 hardware integration
-- Computer Vision via webcam
-- Classifies waste: Organic, Inorganic, and B3
-- Web dashboard using Next.js
-- WhatsApp notification integration
-
-### SIGITA — IT Warehouse Management System
-
-A web-based IT asset and warehouse inventory management system built during internship at PT TIMAH Tbk.
-
-- Full frontend and backend with Laravel and PHP
-- MySQL database architecture
-- IT asset tracking and inventory management
+- ⚙️ Laravel + PHP + MySQL
+- 📦 IT asset tracking and inventory management
 
 ---
 
-## GitHub Statistics
+### 📊 GitHub Stats
 
 <div align="center">
 
 ![stats](https://github-readme-stats.vercel.app/api?username=archiearyaaa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true)
+&nbsp;
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archiearyaaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-<br/>
+</div>
+
+<div align="center">
 
 ![streak](https://streak-stats.demolab.com?user=archiearyaaa&theme=tokyonight&hide_border=true)
 
@@ -79,13 +125,21 @@ A web-based IT asset and warehouse inventory management system built during inte
 
 ---
 
-## Contribution Activity
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=archiearyaaa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+
+</div>
+
+---
+
+### 👾 Contribution Activity
 
 <div align="center">
 
 ![pacman](https://raw.githubusercontent.com/archiearyaaa/archiearyaaa/output/pacman-contribution-graph.svg)
-
-<br/>
 
 ![snake](https://raw.githubusercontent.com/archiearyaaa/archiearyaaa/output/snake-dark.svg)
 
@@ -95,16 +149,8 @@ A web-based IT asset and warehouse inventory management system built during inte
 
 <div align="center">
 
-### Thanks for visiting my profile!
+*Thanks for visiting! Keep learning, keep building, and keep improving.* 🚀
 
-*Keep learning, keep building, and keep improving.*
-
-<br/>
-
-![views](https://komarev.com/ghpvc/?username=archiearyaaa&label=Profile%20Views&color=0d47a1&style=flat-square)
-
-<br/>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,50:0d47a1,100:0a0a2e&height=100&section=footer)
+![views](https://komarev.com/ghpvc/?username=archiearyaaa&label=Profile%20Views&color=0077b6&style=flat-square)
 
 </div>
