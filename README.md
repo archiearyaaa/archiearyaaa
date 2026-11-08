@@ -1,80 +1,121 @@
-# Hi there, I'm Archie Arya Manggala! 👋
+# 👋 Hi there, I'm Archie Arya Manggala!
+
+<div align="center">
 
 ### 💻 Software Engineering Technology Student | Web Developer | IoT & AI Enthusiast
 
-I'm a 7th-semester Software Engineering Technology student at **Politeknik Manufaktur Negeri Bangka Belitung**, Indonesia.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Web+Development+Enthusiast;IoT+%26+Artificial+Intelligence;Always+Learning+Something+New!" />
 
-I'm passionate about building web applications, exploring Internet of Things (IoT), and developing AI-powered solutions. I enjoy learning new technologies, solving problems, and turning ideas into practical projects.
-
----
-
-### 🚀 About Me
-
-- 🎓 Currently pursuing a Bachelor's Degree (Applied) in Software Engineering Technology.
-- 💻 Interested in Web Development, IoT, Artificial Intelligence, and Computer Vision.
-- 🌱 Currently learning and improving my skills in Next.js, Laravel, and AI Development.
-- 🔭 Working on projects that combine software development, AI, and IoT.
-- 🤝 Open to collaboration, new opportunities, and exciting projects.
-- 📍 Based in Bangka Belitung, Indonesia.
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+## 🙋‍♂️ About Me
 
-**Programming Languages**
+I'm a 7th-semester Software Engineering Technology student at **Politeknik Manufaktur Negeri Bangka Belitung, Indonesia**.
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+I'm passionate about building modern web applications, exploring Internet of Things (IoT), and developing AI-powered solutions. I enjoy learning new technologies, solving problems, and creating useful software that brings real value to people and organizations.
 
-**Frameworks & Development**
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Database & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-**AI, Computer Vision & IoT**
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+- 🎓 Software Engineering Technology Student
+- 💻 Interested in Web Development, IoT, AI & Computer Vision
+- 🌱 Currently improving my skills in Next.js, Laravel, and Python
+- 🔭 Exploring AI-powered applications and smart IoT systems
+- 🤝 Open to collaboration and new opportunities
+- 📍 Bangka Belitung, Indonesia
 
 ---
 
-### 📌 Featured Projects
+## 🌐 Connect With Me
 
-**♻️ Waste Sort – AI & IoT-Based Waste Classification**
+<div align="center">
 
-A smart waste classification system using YOLO-based computer vision, Raspberry Pi, ESP32, and a web dashboard built with Next.js.
+<a href="https://github.com/archiearyaaa">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/archiearyamanggala/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-**🏢 SIGITA – IT Warehouse Management System**
-
-A web-based warehouse and IT asset management system developed during my internship at PT TIMAH Tbk. using Laravel, PHP, and MySQL.
-
----
-
-### 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=archiearyaaa&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=archiearyaaa&layout=compact&theme=tokyonight&hide_border=true)
+</div>
 
 ---
 
-### 🤝 Let's Connect!
+## 🛠️ Technologies & Tools
 
-I'm always open to connecting with developers, collaborating on projects, and exploring new opportunities.
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/archiearyamanggala/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/archiearyaaa)
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python" />
+
+### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=laravel,nextjs,bootstrap,tailwind" />
+
+### Database & Development Tools
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma" />
+
+### AI, Computer Vision & IoT
+<img src="https://skillicons.dev/icons?i=opencv,arduino,raspberrypi" />
+
+</div>
 
 ---
 
-⭐ _"Keep learning, keep building, and keep improving."_
+## 🚀 Featured Projects
+
+### ♻️ Waste Sort – AI & IoT-Based Waste Classification
+
+An intelligent waste classification system that combines Artificial Intelligence and Internet of Things to identify and classify household waste.
+
+- YOLO-based object detection
+- Raspberry Pi 5 and ESP32 integration
+- Computer Vision using webcam
+- Waste classification: Organic, Inorganic, and B3
+- Web dashboard using Next.js
+- WhatsApp notification integration
+
+### 🏢 SIGITA – IT Warehouse Management System
+
+A web-based IT asset and warehouse inventory management system developed during my internship at PT TIMAH Tbk.
+
+- Frontend and backend development
+- Laravel and PHP
+- MySQL database
+- Inventory and IT asset management
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=archiearyaaa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archiearyaaa&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=archiearyaaa&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 👾 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/archiearyaaa/archiearyaaa/output/pacman-contribution-graph.svg" width="100%" alt="Pacman Contribution Graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+*Keep learning, keep building, and keep improving.*
+
+<img src="https://komarev.com/ghpvc/?username=archiearyaaa&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
