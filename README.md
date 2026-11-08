@@ -111,25 +111,7 @@ Web-based IT asset and inventory management built during internship at **PT TIMA
 
 <div align="center">
 
-![stats](https://github-readme-stats.vercel.app/api?username=archiearyaaa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true)
-&nbsp;
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archiearyaaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
-<div align="center">
-
 ![streak](https://streak-stats.demolab.com?user=archiearyaaa&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=archiearyaaa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
 
 </div>
 
@@ -138,8 +120,6 @@ Web-based IT asset and inventory management built during internship at **PT TIMA
 ### 👾 Contribution Activity
 
 <div align="center">
-
-![pacman](https://raw.githubusercontent.com/archiearyaaa/archiearyaaa/output/pacman-contribution-graph.svg)
 
 ![snake](https://raw.githubusercontent.com/archiearyaaa/archiearyaaa/output/snake-dark.svg)
 
