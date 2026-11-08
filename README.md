@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,50:0d47a1,100:0a0a2e&height=220&section=header&text=Hi,%20I'm%20Archie%20Arya%20Manggala&fontSize=42&fontColor=64b5f6&fontAlignY=40&desc=Software%20Engineering%20Student%20%7C%20Web%20Dev%20%7C%20IoT%20%26%20AI%20Enthusiast&descAlignY=62&descColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a2e,50:0d47a1,100:0a0a2e&amp;height=220&amp;section=header&amp;text=Hi,%20I'm%20Archie%20Arya%20Manggala&amp;fontSize=42&amp;fontColor=64b5f6&amp;fontAlignY=40&amp;desc=Software%20Engineering%20Student%20%7C%20Web%20Dev%20%7C%20IoT%20%26%20AI%20Enthusiast&amp;descAlignY=62&amp;descColor=ffffff&amp;animation=fadeIn" />
 </div>
 
 <br/>
@@ -99,10 +99,10 @@ A web-based IT asset and warehouse inventory management system built during inte
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=archiearyaaa&label=Profile%20Views&color=0d47a1&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=archiearyaaa&amp;label=Profile%20Views&amp;color=0d47a1&amp;style=flat-square" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,50:0d47a1,100:0a0a2e&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a2e,50:0d47a1,100:0a0a2e&amp;height=100&amp;section=footer" />
 
 </div>
