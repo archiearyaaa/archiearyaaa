@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a2e,50:0d47a1,100:0a0a2e&amp;height=220&amp;section=header&amp;text=Hi,%20I'm%20Archie%20Arya%20Manggala&amp;fontSize=42&amp;fontColor=64b5f6&amp;fontAlignY=40&amp;desc=Software%20Engineering%20Student%20%7C%20Web%20Dev%20%7C%20IoT%20%26%20AI%20Enthusiast&amp;descAlignY=62&amp;descColor=ffffff&amp;animation=fadeIn" />
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,50:0d47a1,100:0a0a2e&height=220&section=header&text=Hi,%20I%27m%20Archie%20Arya%20Manggala&fontSize=42&fontColor=64b5f6&fontAlignY=40&desc=Software%20Engineering%20Student%20%7C%20Web%20Dev%20%7C%20IoT%20%26%20AI%20Enthusiast&descAlignY=62&descColor=ffffff&animation=fadeIn)
+
 </div>
 
 <br/>
@@ -27,13 +29,13 @@ I enjoy learning new technologies, solving problems, and creating useful softwar
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python" />
+![skills](https://skillicons.dev/icons?i=html,css,js,php,python)
 
-<img src="https://skillicons.dev/icons?i=laravel,nextjs,tailwind,bootstrap" />
+![skills](https://skillicons.dev/icons?i=laravel,nextjs,tailwind,bootstrap)
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma" />
+![skills](https://skillicons.dev/icons?i=mysql,git,github,vscode,figma)
 
-<img src="https://skillicons.dev/icons?i=opencv,arduino,raspberrypi" />
+![skills](https://skillicons.dev/icons?i=opencv,arduino,raspberrypi)
 
 </div>
 
@@ -66,12 +68,12 @@ A web-based IT asset and warehouse inventory management system built during inte
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=archiearyaaa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archiearyaaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+![stats](https://github-readme-stats.vercel.app/api?username=archiearyaaa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archiearyaaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=archiearyaaa&theme=tokyonight&hide_border=true" />
+![streak](https://streak-stats.demolab.com?user=archiearyaaa&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -81,11 +83,11 @@ A web-based IT asset and warehouse inventory management system built during inte
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/archiearyaaa/archiearyaaa/output/pacman-contribution-graph.svg" width="100%" alt="Pacman Contribution Graph" />
+![pacman](https://raw.githubusercontent.com/archiearyaaa/archiearyaaa/output/pacman-contribution-graph.svg)
 
-<br/><br/>
+<br/>
 
-<img src="https://raw.githubusercontent.com/archiearyaaa/archiearyaaa/output/snake-dark.svg" width="100%" alt="Snake Contribution Graph" />
+![snake](https://raw.githubusercontent.com/archiearyaaa/archiearyaaa/output/snake-dark.svg)
 
 </div>
 
@@ -99,10 +101,10 @@ A web-based IT asset and warehouse inventory management system built during inte
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=archiearyaaa&amp;label=Profile%20Views&amp;color=0d47a1&amp;style=flat-square" />
+![views](https://komarev.com/ghpvc/?username=archiearyaaa&label=Profile%20Views&color=0d47a1&style=flat-square)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a2e,50:0d47a1,100:0a0a2e&amp;height=100&amp;section=footer" />
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,50:0d47a1,100:0a0a2e&height=100&section=footer)
 
 </div>
