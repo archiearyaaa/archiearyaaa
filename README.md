@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:6b0000,100:1a0000&height=220&section=header&text=Hi,%20I'm%20Archie%20Arya%20Manggala&fontSize=42&fontColor=FFD700&fontAlignY=40&desc=Software%20Engineering%20Student%20%7C%20Web%20Dev%20%7C%20IoT%20%26%20AI%20Enthusiast&descAlignY=62&descColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,50:0d47a1,100:0a0a2e&height=220&section=header&text=Hi,%20I'm%20Archie%20Arya%20Manggala&fontSize=42&fontColor=64b5f6&fontAlignY=40&desc=Software%20Engineering%20Student%20%7C%20Web%20Dev%20%7C%20IoT%20%26%20AI%20Enthusiast&descAlignY=62&descColor=ffffff&animation=fadeIn" />
 </div>
 
 <br/>
@@ -14,52 +14,55 @@ I enjoy learning new technologies, solving problems, and creating useful softwar
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-1a1a2e?style=for-the-badge&logo=About.me&logoColor=white)](https://archiearyaaa.github.io)&nbsp;
-[![GitHub](https://img.shields.io/badge/GITHUB-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/archiearyaaa)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archiearyamanggala/)&nbsp;
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-1a1a2e?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/archiearyaaa/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0d47a1?style=for-the-badge&logo=About.me&logoColor=white)](https://archiearyaaa.github.io)&nbsp;
+[![GitHub](https://img.shields.io/badge/GITHUB-0d47a1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/archiearyaaa)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d47a1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archiearyamanggala/)&nbsp;
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-0d47a1?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/archiearyaaa/)
 
 </div>
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python" />&nbsp;
-<img src="https://skillicons.dev/icons?i=laravel,nextjs,tailwind,bootstrap" />&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma" />&nbsp;
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python" />
+
+<img src="https://skillicons.dev/icons?i=laravel,nextjs,tailwind,bootstrap" />
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma" />
+
 <img src="https://skillicons.dev/icons?i=opencv,arduino,raspberrypi" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### ♻️ Waste Sort — AI & IoT Waste Classification System
+### Waste Sort — AI and IoT Waste Classification System
 
-An intelligent waste classification system that combines **Artificial Intelligence** and **Internet of Things** to identify and sort household waste automatically.
+An intelligent waste classification system that combines Artificial Intelligence and Internet of Things to identify and sort household waste automatically.
 
-- 🧠 **YOLO-based** real-time object detection
-- 🍓 **Raspberry Pi 5** + **ESP32** hardware integration
-- 📷 **Computer Vision** via webcam
-- 🗑️ Classifies waste: **Organic**, **Inorganic**, and **B3**
-- 🌐 Web dashboard using **Next.js**
-- 📲 **WhatsApp** notification integration
+- YOLO-based real-time object detection
+- Raspberry Pi 5 and ESP32 hardware integration
+- Computer Vision via webcam
+- Classifies waste: Organic, Inorganic, and B3
+- Web dashboard using Next.js
+- WhatsApp notification integration
 
-### 🏢 SIGITA — IT Warehouse Management System
+### SIGITA — IT Warehouse Management System
 
-A web-based IT asset and warehouse inventory management system built during internship at **PT TIMAH Tbk**.
+A web-based IT asset and warehouse inventory management system built during internship at PT TIMAH Tbk.
 
-- ⚙️ Full frontend & backend with **Laravel** + **PHP**
-- 🗄️ **MySQL** database architecture
-- 📦 IT asset tracking & inventory management
+- Full frontend and backend with Laravel and PHP
+- MySQL database architecture
+- IT asset tracking and inventory management
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -74,7 +77,7 @@ A web-based IT asset and warehouse inventory management system built during inte
 
 ---
 
-## 👾 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -90,16 +93,16 @@ A web-based IT asset and warehouse inventory management system built during inte
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+### Thanks for visiting my profile!
 
 *Keep learning, keep building, and keep improving.*
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=archiearyaaa&label=Profile%20Views&color=6b0000&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=archiearyaaa&label=Profile%20Views&color=0d47a1&style=flat-square" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:6b0000,100:1a0000&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,50:0d47a1,100:0a0a2e&height=100&section=footer" />
 
 </div>
